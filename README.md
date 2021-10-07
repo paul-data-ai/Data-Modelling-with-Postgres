@@ -1,3 +1,6 @@
+---
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
+
 # Project: Data Modeling with Postgres
 
 A startup named Sparkify wants to analyze user activities using their song and
